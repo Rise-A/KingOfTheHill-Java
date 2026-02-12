@@ -3,6 +3,9 @@ Your goal is to get to the center hill of the map, and get as many points as pos
 However, by attempting to move into a space occupied by another player, that player will be "shoved", forcing them to move in a certain direction.
 Use this to shove players off of the hill, and try not to get shoved off the hill yourself.
 
+## Technologies Used ##
+* Java
+
 ## Installation / Compilation ##
 Assuming you are on Windows:
 
@@ -74,3 +77,7 @@ Lets you output a message that can be seen by other players.
 
 ```LEADERBOARD```
 Displays a leaderboard of all players with the highest scores, in descending order.
+
+## License ##
+MIT License
+See the LICENSE file for more details.
