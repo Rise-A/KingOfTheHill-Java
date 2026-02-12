@@ -39,7 +39,7 @@ telnet localhost PORT_NUMBER
 ```
 5. You should now be connected to the server. Follow the instructions on screen to login.
 
-# Controls / Commands #
+## Controls / Commands ##
 All commands should be followed by the "ENTER" key.
 
 ```LOGIN <username>```
