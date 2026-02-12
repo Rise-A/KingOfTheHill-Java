@@ -28,7 +28,7 @@ cd C:\project\directory\goes\here\KingOfTheHill-Java\src
 ```
 2. Once you are in "src", run the server with the following command:
 ```
-java project_3_multiplayer_game_server_ra.Server PORT_NUMBER 
+java KingOfTheHill-Java.Server PORT_NUMBER 
 ```
 A message should pop up saying: "Server Port: PORT_NUMBER".
 
