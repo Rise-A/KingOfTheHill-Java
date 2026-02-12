@@ -80,4 +80,4 @@ Displays a leaderboard of all players with the highest scores, in descending ord
 
 ## License ##
 MIT License
-See the LICENSE file for more details.
+<br>See the LICENSE file for more details.
