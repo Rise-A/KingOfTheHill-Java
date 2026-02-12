@@ -8,14 +8,23 @@ Assuming you are on Windows, and downloaded, and unzipped the zip folder from th
 
 1. Open Command Prompt (type "cmd" into the search bar)
 2. cd into the folder, "project-3-multiplayer-game-server-ra" (ie, where the java files are kept)
-3. Once you are in the folder, type "javac GameProtocol.java Server.java ClientSession.java RoundManager.java". The files should now compile.
+3. Once you are in the folder, type:
+```
+javac GameProtocol.java Server.java ClientSession.java RoundManager.java
+```
+The files should now compile.
 
 # RUN INSTRUCTIONS #
 Assuming you are on Windows, have telnet enabled, and compiled the java files:
 
 1. Open Command Prompt (type "cmd" into the search bar)
 2. cd into the folder, "project-3-multiplayer-game-server-ra", then cd into the folder "src" (ie, the folder that contains the folder, "scripts")
-3. Once you are in "src", type "java project_3_multiplayer_game_server_ra.Server PORT_NUMBER". A message should pop up saying: "Server Port: PORT_NUMBER"
+3. Once you are in "src", type:
+```
+java project_3_multiplayer_game_server_ra.Server PORT_NUMBER 
+```
+A message should pop up saying: "Server Port: PORT_NUMBER".
+
 4. Open another Command Prompt tab.
 5. Type "telnet localhost PORT_NUMBER".
 6. You should now be connected to the server. Follow the instructions on screen to login.
